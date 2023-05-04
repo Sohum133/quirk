@@ -50,10 +50,11 @@ const ThoughtItem = ({
         backgroundColor: "white",
         borderColor: theme.lightGray,
         borderBottomWidth: 2,
-        borderRadius: 8,
-        borderWidth: 1,
+        borderRadius: 12,
+        borderWidth: 2,
         marginRight: 18,
         flex: 1,
+          
       }}
     >
       <Paragraph
